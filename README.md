@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 ¡Hola, soy Diego!<br><br>Soy estudiante de programación apasionado por el desarrollo de software y la tecnología. Actualmente estoy aprendiendo diferentes lenguajes y herramientas para crear soluciones innovadoras. Me encanta explorar nuevas ideas y compartir conocimientos con la comunidad.<br><br>💻 **Mis intereses incluyen:**<br>- Desarrollo web y móvil<br>- Programación en Python, JavaScript y más<br>- Inteligencia artificial y aprendizaje automático<br>- Contribuciones a proyectos de código abierto<br><br>🚀 **Mis objetivos:**<br>- Mejorar mis habilidades de programación<br>- Participar en proyectos colaborativos<br>- Aprender de otros desarrolladores<br><br>📫 **Puedes contactarme en:**  <br>- [LinkedIn](https://www.linkedin.com/in/tuusuario)  <br>- [Correo electrónico](mailto:tucorreo@example.com)  <br><br>¡Siempre estoy abierto a aprender y colaborar en nuevos proyectos! 😃<br>
+# 👋 ¡Hola, soy Diego!<br><br>
 
 
 ## 🌐 Socials:
